@@ -1,2 +1,3 @@
 หน้าปก
-<img width="736" height="736" alt="5ff26300942c851f366c7c1d882efdd8" src="https://github.com/user-attachments/assets/fbf1f7fd-7da0-496e-824a-ff54469f00a5" />
+<img width="735" height="671" alt="7c267e523b67842160135cc6df24fbdb" src="https://github.com/user-attachments/assets/36cd5c1d-4531-462e-8c44-44b18362a6a2" />
+
