@@ -5,4 +5,5 @@
 -----------------------<br>
 [หน้าปก](page01.md)<br>
 [ค้นหา](https://www.google.com/?hl=th)<br>
-[myprogram01](program01.py)
+[myprogram01](program01.py) <Br>
+[myprogram02](program02.py)<Br>
